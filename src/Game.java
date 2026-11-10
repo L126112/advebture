@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
     JPanel  Textpannel;
     JLabel LableTitolo;
     Font TitoloFont = new Font("Algerian" , Font.BOLD, 80);
-    Font FontBottone = new Font("Algerian" , Font.BOLD, 30);
+    Font FontBottone = new Font("Algerian" , Font.BOLD, 40);
     JButton BottoneInizio;
     JButton BottoneScelta1;
     JButton BottoneScelta2;
